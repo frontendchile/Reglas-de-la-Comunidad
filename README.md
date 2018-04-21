@@ -23,11 +23,11 @@ Para lo anterior las medidas serán:
 # Hashtag en publicaciones 
 Para organizar y facilitar de mejor manera la búsqueda del contenido en nuestra comunidad, las publicaciones que se compartan en Front End Chile deberán utilizar un hashtag (#) con el tema que van a publicar, las normas son:
 
-- #(Lenguaje de Programación) = Hashtag para publicaciones relacionadas sobre algún lenguaje de programación especifico. Ejemplo: #Javascript - #Java
--	#Pregunta #(Tecnología) = Hashtag para preguntar en nuestra comunidad, ejemplo: #Pregunta #Angular - #Pregunta #ReactJs.
--	#Aporte = Hashtag para quienes buscan ayudar y compartir conocimientos dentro de la comunidad.
--	#Empleo = Hashtag para publicaciones con el fin de postear una propuesta o búsqueda de empleo.
--	#OffTopic = Hashtag para publicaciones como memes o temas no relacionados con las anteriores etiquetas, pero respetando las normas de convivencia de la comunidad.
+- #(Lenguaje de Programación): Hashtag para publicaciones relacionadas sobre algún lenguaje de programación especifico. Ejemplo: #Javascript - #Java
+-	#Pregunta #(Tecnología): Hashtag para preguntar en nuestra comunidad, ejemplo: #Pregunta #Angular - #Pregunta #ReactJs.
+-	#Aporte: Hashtag para quienes buscan ayudar y compartir conocimientos dentro de la comunidad.
+-	#Empleo: Hashtag para publicaciones con el fin de postear una propuesta o búsqueda de empleo.
+-	#OffTopic: Hashtag para publicaciones como memes o temas no relacionados con las anteriores etiquetas, pero respetando las normas de convivencia de la comunidad.
 
 Para lo anterior las medidas serán:
 - Para las publicaciones sin Hashtag no existirá una sanción, pero el fin de nuestra comunidad es compartir, por ello, creemos que esto es una excelente forma de origanizar el contenido que compartimos.
