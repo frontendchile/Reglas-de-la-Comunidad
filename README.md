@@ -2,8 +2,6 @@
 Reglas de convivencia para los integrantes de la Comunidad Front End Chile.
 
 # Normas de Convivencia
-Queda prohibido el uso de  (por razones políticas, religiosas, raciales o de cualquier otra índole) entre los usuarios como hacia los administradores o moderadores de la comunidad.
-
 Quedan prohibidos todos los memes, publicaciones y/o insultos con ataques feministas, machistas, políticos, religiosos, raciales o cualquier descalificación hacia o entre los miembros, moderadores o administradores de la comunidad de Front-End Chile.
 
 Para lo anterior las medidas serán:
