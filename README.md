@@ -54,7 +54,7 @@ Solo se permitirán publicaciones de venta de productos y/o servicios que conten
 Nota: Las pubicaciones de nuestros talleres, cursos y/o charlas quedan excluidos de esta regla.
 
 # Pautas para publicar ofertas laborales
-Para revisar nuestra pauta de ofertas laborales, clic aquí: [a link](https://github.com/frontendchile/pautaOfertasLaborales)
+Para revisar nuestra pauta de ofertas laborales, clic aquí: [Pauta Ofertas Laborales](https://github.com/frontendchile/pautaOfertasLaborales)
 
 # Consideraciones Importantes
 -	Los administradores de la Comunidad Front End Chile no son responsables por los acuerdos de negocios que los miembros del grupo hagan con terceros.
