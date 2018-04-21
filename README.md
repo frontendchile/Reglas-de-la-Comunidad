@@ -42,7 +42,7 @@ Para lo anterior las medidas serán:
 - Se informará al usuario del por qué fue baneado su post.
 - Si el usuario repite su actitud, será eliminado de la comunidad.
 
-# Venta de Servicios (Eventos, talleres, cursos desarrollos y/o cualquier otro servicio).
+# Venta de Servicios (Eventos, talleres, cursos desarrollos y/o cualquier otra venta de productos o servicios).
 Solo se permitirán publicaciones de venta de productos y/o servicios que contengan algún beneficio para nuestra comunidad, ellos son:
 
 -	Descuentos para los miembros de Front End Chile.
