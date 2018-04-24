@@ -25,7 +25,7 @@ Para organizar y facilitar de mejor manera la búsqueda del contenido en nuestra
 
 - #(Lenguaje de Programación): Hashtag para publicaciones relacionadas sobre algún lenguaje de programación especifico. Ejemplo: #Javascript - #Java
 -	#Pregunta #(Tecnología): Hashtag para preguntar en nuestra comunidad, ejemplo: #Pregunta #Angular - #Pregunta #ReactJs.
--	#Aporte: Hashtag para quienes buscan ayudar y compartir conocimientos dentro de la comunidad.
+-	[#Aporte](#): Hashtag para quienes buscan ayudar y compartir conocimientos dentro de la comunidad.
 -	#Empleo: Hashtag para publicaciones con el fin de postear una propuesta o búsqueda de empleo.
 -	#OffTopic: Hashtag para publicaciones como memes o temas no relacionados con las anteriores etiquetas, pero respetando las normas de convivencia de la comunidad.
 
