@@ -35,6 +35,7 @@ Para organizar y facilitar de mejor manera la búsqueda del contenido en nuestra
 - *#Pregunta #(Tecnología):* Hashtag para preguntar en nuestra comunidad, ejemplo: #Pregunta #Angular - #Pregunta #ReactJs.
 - *#Aporte:* Hashtag para quienes buscan ayudar y compartir conocimientos dentro de la comunidad.
 - *#Empleo:* Hashtag para publicaciones con el fin de postear una propuesta o búsqueda de empleo.
+- *#Concurso:* Hashtag para publicaciones con el fin de promover un concurso. Los concursos son generados por miembros administradores y moderadores exclusivamente.
 - *#OffTopic:* Hashtag para publicaciones como memes o temas no relacionados con las anteriores etiquetas, pero respetando las normas de convivencia de la comunidad.
 
 **Para lo anterior las medidas serán:**
